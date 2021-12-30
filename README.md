@@ -43,14 +43,17 @@ Main Testing code
 
 Most of the coding sections are divided into the one-channel image (gray-scale image) transformation region and three-channel image (BGR-image or RGB-image) transformation region. In this rep, we simulate the Opencv image reading method (BGR-format image) The testing image is saved in pic file.  大部分的代码文件都被分割为一管道图像（大致理解为灰度图像）处理区域和和 三管道图像（BGR-图像或者RBG-图像）处理区域。所有测试的图像均放在pic 文件夹中。
 
+
+### The overall program is form of the following 10 components (with specific algorithm):
+
 * Convolution.py
   * Padding Algorithm 
   * Convolution Algorithm
 
 
 * Convolution_anchor.py
-  *Padding algorithm with Specific Anchor
-  *Convolution Algorithm with Specific Anchor
+  * Padding algorithm with Specific Anchor
+  * Convolution Algorithm with Specific Anchor
 
 
 * Image_resize.py
@@ -92,7 +95,7 @@ Most of the coding sections are divided into the one-channel image (gray-scale i
   * Topology Algorithm: Topological Structural Analysis 
   
  
-整体代码结构由以下10个部分所构成（附带具体算法）：
+### 整体代码结构由以下10个部分所构成（附带具体算法）：
 
 * Convolution.py
   * 填充算法 
