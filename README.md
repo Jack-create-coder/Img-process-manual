@@ -166,7 +166,7 @@ RGB与HSV 格式转化:             [色彩转换系列之RGB格式与HSV格式�
 三角法阈值分割算法:             [图像处理之三角法图像二值化](https://blog.csdn.net/jia20003/article/details/53954092)\
 自适应阈值处理:                [灰度图像-图像分割](https://face2ai.com/DIP-7-7-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E9%98%88%E5%80%BC%E5%A4%84%E7%90%86%E4%B9%8B%E5%B1%80%E9%83%A8%E9%98%88%E5%80%BC)\
 Canny 算法:                   [Canny边缘检测](https://www.cnblogs.com/mmmmc/p/10524640.html)\
-轮廓提取算法:                  [OpenCV轮廓提取算法详解findContours()](https://zhuanlan.zhihu.com/p/107257870)\
+轮廓提取算法:                  [OpenCV轮廓提取算法详解findContours()](https://zhuanlan.zhihu.com/p/107257870)
 
 ### Relevant Paper:
 * [Triangle Optimal Threshold: Automatic measurement of sister chromatid exchange](https://pubmed.ncbi.nlm.nih.gov/70454/)
