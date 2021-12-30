@@ -12,7 +12,6 @@ This program is aimed at some images output mainpulation
 
 import numpy as np
 import pandas as pd
-import cv2
 
 
 ##################################################### image to excel ######################################
