@@ -1,4 +1,4 @@
-## Opencv Library basic graphic processing algorithm coding reproduction based on Numpy and Matplotlib library (基于Numpy和Matplotlib 库对于Opencv基础图像处理算法代码复现)
+## Opencv Library basic graphic processing algorithm coding reproduction based on Numpy and Matplotlib library (基于Numpy和Matplotlib 库对于OpenCV基础图像处理算法代码复现)
 
 This repository simulated the basic graphic image processing function through reproduce the underlying algorithm based on numpy and matplotlib library. This project is aiming at in-depth understanding of image-processing algorithm and serves for the introduction to Computer Vision (CV). (这个仓库在不依赖Opencv 库的前提下，利用python基础Numpy 和 matplotlib 库编程实现Opencv 图像处理的基础功能，这个项目旨在于对于深入了解图像处理的底层算法，和作为计算机视觉的入门知识储备)
 
