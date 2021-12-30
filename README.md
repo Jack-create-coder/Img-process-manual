@@ -152,21 +152,21 @@ Learning material of fundamental algorithm and models such as image convolution 
 
 
 ### Blog material (Only in Chinese) 博客资料(仅提供中文)
-双线性插值: [图像处理+双线性插值法](https://blog.csdn.net/lovexlsforever/article/details/79508602)\
-三次样条插值:[最近邻插值、双线性插值、双三次插值](https://blog.csdn.net/caomin1hao/article/details/81092134)\
-高斯掩膜(滤波): [OpenCV 学习：8 高斯滤波GaussianBlur](https://zhuanlan.zhihu.com/p/126592928)\
-双边掩膜(滤波): [OpenCV 学习：９ 双边滤波bilateralFilter](https://zhuanlan.zhihu.com/p/127023952)\
-经典算子(滤波):  [【图像处理】轻松搞懂图像锐化](https://zhuanlan.zhihu.com/p/162275458)\
-按位运算: [OpenCV 之按位运算举例解析](https://blog.csdn.net/qq_36758914/article/details/106836231)\
-腐蚀、膨胀、开运算、闭运算: [图像处理：图像腐蚀、膨胀，开操作、闭操作](https://codeantenna.com/a/mYT2rbm2Q9)\
-形态学梯度变化、顶帽变化: [形态学处理（腐蚀膨胀，开闭运算，礼帽黑帽，边缘检测](https://www.cnblogs.com/wj-1314/p/12084636.html)\
-RGB与HSV 格式转化: [色彩转换系列之RGB格式与HSV格式互转原理及实现](https://blog.csdn.net/weixin_40647819/article/details/92660320)\
-3D颜色查找表转化: [LUT（look up table）调色的原理与代码实现](https://www.jianshu.com/p/d09aeea3b732)\
-大津法阈值分割算法: [otsu阈值分割算法原理_Opencv从零开始](https://blog.csdn.net/weixin_35943182/article/details/112443343)\
-三角法阈值分割算法: [图像处理之三角法图像二值化](https://blog.csdn.net/jia20003/article/details/53954092)\
-自适应阈值处理: [灰度图像-图像分割](https://face2ai.com/DIP-7-7-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E9%98%88%E5%80%BC%E5%A4%84%E7%90%86%E4%B9%8B%E5%B1%80%E9%83%A8%E9%98%88%E5%80%BC)\
-Canny 算法: [Canny边缘检测](https://www.cnblogs.com/mmmmc/p/10524640.html)\
-轮廓提取算法: [OpenCV轮廓提取算法详解findContours()](https://zhuanlan.zhihu.com/p/107257870)\
+双线性插值:                    [图像处理+双线性插值法](https://blog.csdn.net/lovexlsforever/article/details/79508602)\
+三次样条插值:                  [最近邻插值、双线性插值、双三次插值](https://blog.csdn.net/caomin1hao/article/details/81092134)\
+高斯掩膜(滤波):                [OpenCV 学习：8 高斯滤波GaussianBlur](https://zhuanlan.zhihu.com/p/126592928)\
+双边掩膜(滤波):                [OpenCV 学习：９ 双边滤波bilateralFilter](https://zhuanlan.zhihu.com/p/127023952)\
+经典算子(滤波):                [【图像处理】轻松搞懂图像锐化](https://zhuanlan.zhihu.com/p/162275458)\
+按位运算:                      [OpenCV 之按位运算举例解析](https://blog.csdn.net/qq_36758914/article/details/106836231)\
+腐蚀、膨胀、开运算、闭运算:     [图像处理：图像腐蚀、膨胀，开操作、闭操作](https://codeantenna.com/a/mYT2rbm2Q9)\
+形态学梯度变化、顶帽变化:       [形态学处理（腐蚀膨胀，开闭运算，礼帽黑帽，边缘检测](https://www.cnblogs.com/wj-1314/p/12084636.html)\
+RGB与HSV 格式转化:             [色彩转换系列之RGB格式与HSV格式互转原理及实现](https://blog.csdn.net/weixin_40647819/article/details/92660320)\
+3D颜色查找表转化:              [LUT（look up table）调色的原理与代码实现](https://www.jianshu.com/p/d09aeea3b732)\
+大津法阈值分割算法:            [otsu阈值分割算法原理_Opencv从零开始](https://blog.csdn.net/weixin_35943182/article/details/112443343)\
+三角法阈值分割算法:             [图像处理之三角法图像二值化](https://blog.csdn.net/jia20003/article/details/53954092)\
+自适应阈值处理:                [灰度图像-图像分割](https://face2ai.com/DIP-7-7-%E7%81%B0%E5%BA%A6%E5%9B%BE%E5%83%8F-%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-%E9%98%88%E5%80%BC%E5%A4%84%E7%90%86%E4%B9%8B%E5%B1%80%E9%83%A8%E9%98%88%E5%80%BC)\
+Canny 算法:                   [Canny边缘检测](https://www.cnblogs.com/mmmmc/p/10524640.html)\
+轮廓提取算法:                  [OpenCV轮廓提取算法详解findContours()](https://zhuanlan.zhihu.com/p/107257870)\
 
 ### Relevant Paper:
 * [Triangle Optimal Threshold: Automatic measurement of sister chromatid exchange](https://pubmed.ncbi.nlm.nih.gov/70454/)
