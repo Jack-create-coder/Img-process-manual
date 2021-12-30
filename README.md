@@ -1,4 +1,4 @@
-## Utilize Python Numpy and Matplotlib to realize the baisc image processing function  (利用 Numpy 和 Matplotlib 库复现 OpenCV 基础图像处理算法代码)
+## Utilize Python Numpy and Matplotlib to realize OpenCV baisc image processing function  (利用 Numpy 和 Matplotlib 库复现 OpenCV 基础图像处理算法代码)
 
 This repository simulated the basic graphic image processing function through reproduce the underlying algorithm based on numpy and matplotlib library. This project is aiming at in-depth understanding of image-processing algorithm and serves for the introduction to Computer Vision (CV). (这个仓库在不依赖 Opencv 库的前提下，利用 python 基础 Numpy 和 matplotlib 库编程实现OpenCV 图像处理的基础功能，这个项目旨在于对于深入了解图像处理的底层算法和作为计算机视觉的入门知识储备)
 
