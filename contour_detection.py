@@ -16,7 +16,6 @@ the binary transformation we will apply otsu threshold transformation and adapti
 
 #import relevant package
 import numpy as np
-import cv2 
 from color_trans import bgr2gray,gray2bgr_show
 from edge_detection import array_edge_detection
 from convolution import show_with_matplotlib,convolution_trans,show_with_matplotlib_array,bgr_imread,image_merge
@@ -160,7 +159,7 @@ def image_contour_detection(image):
 ############################################################################################## TEST ##############################################################################
 
 
-lenna_image=cv2.imread("pics\\lenna.png")
+lenna_image=bgr_imread("pics\\lenna.png")
 lenna_contour_detection=image_contour_detection(lenna_image)
 lenna_contour_detection_show=gray2bgr_show(lenna_contour_detection)
 show_with_matplotlib(lenna_contour_detection_show,"lenna_contour_detection")
