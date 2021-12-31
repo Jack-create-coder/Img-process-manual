@@ -202,7 +202,7 @@ All of the transformed image is saved in result file.(所有转化后的图像�
 ## Author(关于作者)
 
 Jianfan Shao – Jinan University\
-E-mail: jackshaw0714@gmail.com\
+E-mail: jackshaw0714@gmail.com
 * Note: 
   * If you have any suggestion about the algorithm or coding optimization, please contact me by e-mail.
   * Please send an email for permission to use the appeal code for educational or commercial purposes.
@@ -210,7 +210,7 @@ E-mail: jackshaw0714@gmail.com\
 
 
 邵键帆-暨南大学\
-邮箱: jackshaw0714@gmail.com\
+邮箱: jackshaw0714@gmail.com
 * 注意：
   * 如果有任何关于算法和代码优化的问题，请及时跟我联系.
   * 如需将该项目作为教学或者商业用途，请发邮件征得本人同意.
